@@ -2,7 +2,7 @@
 This is the documentation for the WordPress Core Ticket https://core.trac.wordpress.org/ticket/49714
 
 ## Posts 
-- Where: /wp-admin/edit.php?post-action=trash
+###  Where: /wp-admin/edit.php?post-action=trash
 - Behavior:
     - Default: color: #b32d2e; border: none;
     - :hover color: #b32d2e; border: none;
