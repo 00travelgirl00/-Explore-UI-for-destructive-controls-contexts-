@@ -12,7 +12,7 @@ This is the documentation for the WordPress Core Ticket https://core.trac.wordpr
     - Link-Text / Button Text: Trash
     - css-class: ```a class="submitdelete"```
     - Accessible Name: ```aria-label="Move “TablePress Test” to the Trash"```
-    - Icon: 
+    - Icon: no
 - Screenshot / Video: 
 
 https://github.com/00travelgirl00/-Explore-UI-for-destructive-controls-contexts-/assets/21318377/42ff0fa0-5898-485c-bb4f-ea02a4bdf3b7
